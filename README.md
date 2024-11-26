@@ -1,6 +1,5 @@
 ## Asslamu Alaikum 👋
-
-	*My name's Saif.*
+*My name's Saif.*
 
 # About me
 - I’m currently working on Full-Stack e-commerce website.
