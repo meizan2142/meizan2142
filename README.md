@@ -1,5 +1,5 @@
 ## Assalamu Alaikum 👋
-*My name's Saif.*
+*I'm Saif, a junior Fullstack developer from  Chattogram, Bangladesh.*
 
 # About me
 - I’m currently working on Full-Stack e-commerce website.
