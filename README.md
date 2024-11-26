@@ -1,6 +1,6 @@
-## Hi there 👋
+## Asslamu Alaikum 👋
 
-My name is Saif sultan Mizan
+My name's Saif.
 
 # About me
 - I’m currently working on Full-Stack e-commerce website.
