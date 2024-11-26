@@ -1,4 +1,4 @@
-## Asslamu Alaikum 👋
+## Assalamu Alaikum 👋
 *My name's Saif.*
 
 # About me
