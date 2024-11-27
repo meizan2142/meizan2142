@@ -3,9 +3,6 @@
 </a>
 
 ## Assalamu Alaikum 👋
-*I'm Saif, a junior MERN Stack developer from  Chattogram, Bangladesh.*
-=======
-## Assalamu Alaikum 👋
 *I'm Saif, a junior Fullstack developer from  Chattogram, Bangladesh.*
 
 # About me
@@ -14,3 +11,8 @@
 - Looking for collaborate on real-world projects
 - I'm searching a platform where I can learn and gain experiance.
 - Fun fact: Passionate about teaching and enjoy mentoring students through private tuition.
+
+## GitHub Stats
+</br>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=meizan2142&theme=black-ice" alt="GitHub Streak" /></p>
