@@ -11,3 +11,6 @@
 - Looking for collaborate on real-world projects
 - I'm searching a platform where I can learn and gain experiance.
 - Fun fact: Passionate about teaching and enjoy mentoring students through private tuition.
+
+## GitHub Stats
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meizan2142" alt="GitHub Streak" /></a>
