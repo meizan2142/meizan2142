@@ -6,11 +6,11 @@
 *I'm Saif, a junior Fullstack developer from  Chattogram, Bangladesh.*
 
 # About me
-- I’m currently working on Full-Stack e-commerce website.
+- I’m currently working on a Full-Stack e-commerce website.
 - Exploring Tanstack query.
-- Looking for collaborate on real-world projects
-- I'm searching a platform where I can learn and gain experiance.
-- Fun fact: Passionate about teaching and enjoy mentoring students through private tuition.
+- Looking to collaborate on real-world projects
+- I'm searching for a platform where I can learn and gain experience.
+- Fun fact: I am passionate about teaching and enjoy mentoring students through private tuition.
 
 ## GitHub Stats
 </br>
