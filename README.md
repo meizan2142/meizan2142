@@ -3,9 +3,6 @@
 </a>
 
 ## Assalamu Alaikum 👋
-*I'm Saif, a junior MERN Stack developer from  Chattogram, Bangladesh.*
-=======
-## Assalamu Alaikum 👋
 *I'm Saif, a junior Fullstack developer from  Chattogram, Bangladesh.*
 
 # About me
