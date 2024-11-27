@@ -17,3 +17,10 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=meizan2142&theme=black-ice" alt="GitHub Streak" /></p>
 
+## Technologies that I know
+</br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,firebase,git,vercel,netlify,vite,mongodb,expressjs,react,nodejs" />
+  </a>
+</p>
