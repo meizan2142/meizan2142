@@ -3,7 +3,7 @@
 </a>
 
 ## Assalamu Alaikum 👋
-*I'm Saif, a junior Fullstack developer from  Chattogram, Bangladesh.*
+*I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
 # About me
 - I’m currently working on a Full-Stack e-commerce website.
