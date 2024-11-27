@@ -13,4 +13,4 @@
 - Fun fact: Passionate about teaching and enjoy mentoring students through private tuition.
 
 ## GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meizan2142" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=meizan2142" alt="GitHub Streak" /></a>
