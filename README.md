@@ -14,9 +14,7 @@
 
 ## GitHub Stats
 </br>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=meizan2142&theme=black-ice" alt="GitHub Streak" />
-</p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=meizan2142&theme=black-ice" alt="GitHub Streak" /></a>
 
 ## Technologies that I know
 </br>
