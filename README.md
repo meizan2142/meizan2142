@@ -2,7 +2,7 @@
 <img src="https://i.ibb.co.com/yFDZJzr/Saif-s-Banner2.png" />
 </a>
 
-## Assalamu Alaikum 👋
+## Assalamu Alaikum
 *I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
 # About me
