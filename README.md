@@ -1,5 +1,5 @@
 <a>
-<img src="https://i.ibb.co.com/yFDZJzr/Saif-s-Banner2.png" />
+<img src="https://ik.imagekit.io/euutmpkgk/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png?updatedAt=1751355336237" />
 </a>
 
 ## Assalamu Alaikum
