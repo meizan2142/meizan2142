@@ -6,7 +6,7 @@
 *I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
 # About me
-- I’m currently working on a Full-Stack e-commerce website.
+- I’m currently learning Next.js.
 - Exploring Tanstack query.
 - Looking to collaborate on real-world projects
 - I'm searching for a platform where I can learn and gain experience.
