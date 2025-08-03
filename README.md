@@ -7,7 +7,7 @@
 
 # About me
 - I’m currently learning Next.js.
-- Exploring Tanstack query.
+- Exploring Redux Tookit.
 - Looking to collaborate on real-world projects
 - I'm searching for a platform where I can learn and gain experience.
 - Fun fact: I am passionate about teaching and enjoy mentoring students through private tuition.
