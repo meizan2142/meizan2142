@@ -6,7 +6,7 @@
 *I'm Saif, a junior MERN stack developer from  Chattogram, Bangladesh.*
 
 # About me
-- I’m currently completing Next Level Web Development Course.
+- Currently, I'm completing Next Level Web Development Course.
 - Exploring TypeScript.
 - Looking to collaborate on real-world projects
 - I'm searching for a platform where I can learn and gain experience.
